@@ -3,14 +3,14 @@
 ______*This is my first project V1 using Scratch*______ 🎉
 ______*The cat says "Hello" and moves 10 steps*______ 🎉
 ------------------------------------------------------------
-^^^^[scratch Project Screenshot](Screenshot-For-first-project-V1 😳😳)^^^^
+^^[scratch Project Screenshot](Screenshot-For-first-project-V1 😳😳)^^
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # My-First-Scratch-Project-V2
 ------------------------------------------------------------
 ______**This is my first project V2 using Scratch**______ 🎉
-______**Added a counter loop from 1 to 5**_______🎉
-______**Each number is displayed as the cat says it**_____🎉
-______**Demonstrates updating variables in Scratch**_______🎉
+______**Added a counter loop from 1 to 5**________________ 🎉
+______**Each number is displayed as the cat says it**_____ 🎉
+______**Demonstrates updating variables in Scratch**_______ 🎉
 ------------------------------------------------------------
 ^^^^[scratch Project Screenshot](Screenshot-For-first-project-V2 😳😳)^^^^
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
