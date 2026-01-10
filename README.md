@@ -7,10 +7,10 @@ ______*The cat says "Hello" and moves 10 steps*______ 🎉
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # My-First-Scratch-Project-V2
 ------------------------------------------------------------
-______**This is my first project V2 using Scratch**______ 🎉
-______**Added a counter loop from 1 to 5**_______________ 🎉
-______**Each number is displayed as the cat says it**____ 🎉
-______**Demonstrates updating variables in Scratch**_____ 🎉
+*This is my first project V2 using Scratch**🎉
+____*Added a mo loop from 1 to 5**🎉
+____*Each number is displayed as the cat says it**🎉
+____*Demonstrates updating variables in Scratch**🎉
 ------------------------------------------------------------
 ^^[scratch Project Screenshot](Screenshot-For-first-project-V2 😳😳)^^
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
