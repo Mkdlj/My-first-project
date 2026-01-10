@@ -1,3 +1,5 @@
 # My First Scratch Project
-*This is my first project using Scratch*. 
-*The cat says "Hello" and moves 10 steps* 🎉
+------------------------------------------------------------
+______*This is my first project using Scratch*______ 🎉
+______*The cat says "Hello" and moves 10 steps*______ 🎉
+------------------------------------------------------------
