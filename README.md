@@ -8,7 +8,7 @@ ______*The cat says "Hello" and moves 10 steps*______ 🎉
 # My-First-Scratch-Project-V2
 ------------------------------------------------------------
 ______*This is my first project V2 using Scratch*______ 🎉
-______*Added a counter loop from 1 to 5*_______________🎉
+______*Added a counter loop from 1 to 5*_______🎉
 ______ Each number is displayed as the cat says it_____🎉
 ______Demonstrates updating variables in Scratch_______🎉
 ------------------------------------------------------------
