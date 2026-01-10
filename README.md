@@ -1,6 +1,6 @@
 # My-First-Scratch-Project-V1
 ------------------------------------------------------------
-______*This is my first project V1 using Scratch*______ 🎉
+______*This is my first project V1 using Scratch*____ 🎉
 ______*The cat says "Hello" and moves 10 steps*______ 🎉
 ------------------------------------------------------------
 ^^[scratch Project Screenshot](Screenshot-For-first-project-V1 😳😳)^^
@@ -8,9 +8,9 @@ ______*The cat says "Hello" and moves 10 steps*______ 🎉
 # My-First-Scratch-Project-V2
 ------------------------------------------------------------
 ______**This is my first project V2 using Scratch**______ 🎉
-______**Added a counter loop from 1 to 5**________ _______ 🎉
-______**Each number is displayed as the cat says it**_____ 🎉
-______**Demonstrates updating variables in Scratch**_______ 🎉
+______**Added a counter loop from 1 to 5**_______________ 🎉
+______**Each number is displayed as the cat says it**____ 🎉
+______**Demonstrates updating variables in Scratch**_____ 🎉
 ------------------------------------------------------------
 ^^[scratch Project Screenshot](Screenshot-For-first-project-V2 😳😳)^^
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
