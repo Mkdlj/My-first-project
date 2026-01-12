@@ -39,7 +39,7 @@ Welcome to my collection of Scratch projects! Here I document my progress from b
 
 [🎮 Play V3 on Scratch](https://scratch.mit.edu/projects/1264242980)
 
-![V3 Screenshot](My-first-project-V3.sb3)
+![V3 Screenshot](Screenshot-For-first-project-V2.png)
 
 ---
 
